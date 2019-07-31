@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>自学营学员笔记</title>
+  
+  <subtitle>总结、记录、打卡、沉淀</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://selfteaching-learning-notes.github.io/"/>
+  <updated>2019-07-31T04:05:48.000Z</updated>
+  <id>https://selfteaching-learning-notes.github.io/</id>
+  
+  <author>
+    <name>自学营团队</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1901010000-MIT-自学 MIT 原版书 第三章</title>
+    <link href="https://selfteaching-learning-notes.github.io/MIT60001/1901010000-MIT-%E8%87%AA%E5%AD%A6-MIT-%E5%8E%9F%E7%89%88%E4%B9%A6-%E7%AC%AC%E4%B8%89%E7%AB%A0/"/>
+    <id>https://selfteaching-learning-notes.github.io/MIT60001/1901010000-MIT-自学-MIT-原版书-第三章/</id>
+    <published>2019-07-31T02:50:57.000Z</published>
+    <updated>2019-07-31T04:05:48.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;学员信息&quot;&gt;&lt;a href=&quot;#学员信息&quot; class=&quot;headerlink&quot; title=&quot;学员信息&quot;&gt;&lt;/a&gt;学员信息&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;学号：1901010000&lt;/li&gt;
+&lt;li&gt;学习内容：自学 MIT 原版书
+        
+      
+    
+    </summary>
+    
+      <category term="MIT60001" scheme="https://selfteaching-learning-notes.github.io/categories/MIT60001/"/>
+    
+    
+      <category term="MIT" scheme="https://selfteaching-learning-notes.github.io/tags/MIT/"/>
+    
+      <category term="Python" scheme="https://selfteaching-learning-notes.github.io/tags/Python/"/>
+    
+      <category term="学习打卡" scheme="https://selfteaching-learning-notes.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%89%93%E5%8D%A1/"/>
+    
+  </entry>
+  
+</feed>
